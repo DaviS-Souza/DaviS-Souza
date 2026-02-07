@@ -15,11 +15,11 @@ specializing in Java and Spring Boot.
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:davissouza2004@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
-         width="40"
-         height="40"
-         alt="Gmail"/>
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
+       width="40"
+       height="40"
+       alt="Gmail"/>
+</a>
 </p>
 
 ## 💻Stacks:
