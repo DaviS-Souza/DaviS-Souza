@@ -2,7 +2,7 @@
 ∙💻Technologist in Systems Analysis and Development - Universidade Cruzeiro do Sul
 ∙👨🏽‍💻I am a backend development student, specializing in Java and Spring Boot.
 
-##Social Media:
+## Social Media:
 <p align="center">
   <a href="https://www.linkedin.com/in/davi-silva-2a7972219/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-##💻Stacks:
+## 💻Stacks:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
 </p>
 
-##💻Currently studying
+## 💻Currently studying
 - ☕ Java and SpringBoot
 
 ![Snake animation](https://github.com/DaviS-Souza/DaviS-Souza/blob/output/github-contribution-grid-snake.svg)
