@@ -1,6 +1,8 @@
 ## I'm Davi Silva👋
-∙💻Technologist in Systems Analysis and Development - Universidade Cruzeiro do Sul
-∙👨🏽‍💻I am a backend development student, specializing in Java and Spring Boot.
+∙💻Technologist in Systems Analysis and
+Development - Universidade Cruzeiro do Sul
+∙👨🏽‍💻I am a backend development student, 
+specializing in Java and Spring Boot.
 
 ## Social Media:
 <p align="center">
@@ -32,4 +34,3 @@
 ## 💻Currently studying
 - ☕ Java and SpringBoot
 
-![Snake animation](https://github.com/DaviS-Souza/DaviS-Souza/blob/output/github-contribution-grid-snake.svg)
