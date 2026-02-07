@@ -1,16 +1,22 @@
-## Hi there 👋
+## I'm Davi Silva👋
+∙💻Technologist in Systems Analysis and Development - Universidade Cruzeiro do Sul
+∙👨🏽‍💻I am a backend development student, specializing in Java and Spring Boot.
 
-<!--
-**DaviS-Souza/DaviS-Souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Social Media:
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/davi-silva-2a7972219/)
+[![Gmail](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg)](mailto:davissouza2004@gmail.com)
 
-Here are some ideas to get you started:
+##💻Stacks:
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##💻Currently studying
+- ☕ Java and SpringBoot
+
+![Snake animation](https://github.com/DaviS-Souza/DaviS-Souza/blob/output/github-contribution-grid-snake.svg)
