@@ -3,8 +3,21 @@
 ∙👨🏽‍💻I am a backend development student, specializing in Java and Spring Boot.
 
 ##Social Media:
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/davi-silva-2a7972219/)
-[![Gmail](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg)](mailto:davissouza2004@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/davi-silva-2a7972219/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="40"
+         height="40"
+         alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:davissouza2004@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+         width="40"
+         height="40"
+         alt="Gmail"/>
+  </a>
+</p>
 
 ##💻Stacks:
 <p align="center">
