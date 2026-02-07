@@ -3,7 +3,7 @@
 Development - University Cruzeiro do Sul
 
 •👨🏽‍💻 I am a backend development student, 
-specializing in Java and Spring Boot.
+specializing in Java and Spring Boot by SESI-Senai.
 
 ## Social Media:
 <p align="center">
