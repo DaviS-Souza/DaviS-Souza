@@ -1,6 +1,6 @@
 ## I'm Davi Silva👋
 •💻 Technologist in Systems Analysis and
-Development - University Cruzeiro do Sul
+Development - Universidade Cruzeiro do Sul
 
 •👨🏽‍💻 I am a backend development student, 
 specializing in Java and Spring Boot by SESI-Senai.
