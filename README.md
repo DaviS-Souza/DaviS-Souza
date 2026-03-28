@@ -5,6 +5,9 @@ Development - Universidade Cruzeiro do Sul
 •👨🏽‍💻 I am a backend development student, 
 specializing in Java and Spring Boot by SESI-Senai.
 
+•🤖 RPA & Automation:
+Developing automation solutions using Python to optimize repetitive tasks and processes.
+
 ## Social Media:
 <p align="center">
   <a href="https://www.linkedin.com/in/davi-silva-2a7972219/" target="_blank">
@@ -34,4 +37,5 @@ specializing in Java and Spring Boot by SESI-Senai.
 
 ## 💻Currently studying
 - ☕ Java and SpringBoot
+- 🤖 RPA: Automation with python
 
